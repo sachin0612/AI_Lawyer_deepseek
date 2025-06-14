@@ -1,2 +1,2 @@
 # AI_Lawyer_deepseek
-https://github.com/sachin0612/AI_Lawyer_deepseek/issues/1#issue-3146312189
+![Image](https://github.com/user-attachments/assets/2a32db25-0598-432c-a50a-f86d492d8053)
